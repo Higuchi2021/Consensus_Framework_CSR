@@ -3,7 +3,7 @@ import cupy as np
 import Options
 import Util
 import Image_IO
-from Coef_update_L2_fast import Coef_update_L2
+from Coef_update_L2 import Coef_update_L2
 from Dict_update_L2 import Dict_update_L2
 import Visualize
 import Decode_Random
